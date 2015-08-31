@@ -1,0 +1,5 @@
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Debug\Abstract.cs.exe.config
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Debug\Abstract.cs.exe
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Debug\Abstract.cs.pdb
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\Abstract.cs\obj\Debug\Abstract.cs.exe
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\Abstract.cs\obj\Debug\Abstract.cs.pdb

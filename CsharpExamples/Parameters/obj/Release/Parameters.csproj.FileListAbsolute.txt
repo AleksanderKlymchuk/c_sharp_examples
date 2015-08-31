@@ -1,0 +1,5 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Parameters\bin\Release\Parameters.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Parameters\bin\Release\Parameters.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Parameters\bin\Release\Parameters.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Parameters\obj\Release\Parameters.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Parameters\obj\Release\Parameters.pdb

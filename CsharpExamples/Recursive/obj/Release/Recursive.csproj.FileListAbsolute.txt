@@ -1,0 +1,5 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Recursive\bin\Release\Recursive.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Recursive\bin\Release\Recursive.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Recursive\bin\Release\Recursive.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Recursive\obj\Release\Recursive.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Recursive\obj\Release\Recursive.pdb

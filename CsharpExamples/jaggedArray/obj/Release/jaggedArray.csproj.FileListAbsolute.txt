@@ -1,0 +1,6 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\bin\Release\jaggedArray.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\bin\Release\jaggedArray.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\bin\Release\jaggedArray.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\obj\Release\jaggedArray.csprojResolveAssemblyReference.cache
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\obj\Release\jaggedArray.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\jaggedArray\obj\Release\jaggedArray.pdb

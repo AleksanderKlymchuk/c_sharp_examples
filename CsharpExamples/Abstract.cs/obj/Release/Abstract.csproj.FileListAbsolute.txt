@@ -1,0 +1,5 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Release\Abstract.cs.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Release\Abstract.cs.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Abstract.cs\bin\Release\Abstract.cs.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Abstract.cs\obj\Release\Abstract.cs.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Abstract.cs\obj\Release\Abstract.cs.pdb

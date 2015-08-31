@@ -1,0 +1,6 @@
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\WebForm\bin\WebForm.dll.config
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\WebForm\bin\WebForm.dll
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\WebForm\bin\WebForm.pdb
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\WebForm\obj\Debug\WebForm.dll
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\WebForm\obj\Debug\WebForm.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache

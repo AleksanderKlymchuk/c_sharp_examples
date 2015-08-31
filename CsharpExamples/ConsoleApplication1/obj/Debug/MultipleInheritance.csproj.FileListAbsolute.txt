@@ -1,0 +1,6 @@
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\obj\Debug\MultipleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\oleksandr\Documents\Visual Studio 2013\Projects\CsharpExamples\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

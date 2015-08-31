@@ -1,0 +1,5 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\cpr_validator\bin\Release\cpr_validator.exe.config
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\cpr_validator\bin\Release\cpr_validator.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\cpr_validator\bin\Release\cpr_validator.pdb
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\cpr_validator\obj\Release\cpr_validator.exe
+C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\cpr_validator\obj\Release\cpr_validator.pdb

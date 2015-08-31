@@ -1,0 +1,17 @@
+﻿@model calculator
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>index</h2>
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(m=>m.firstNumber)
+    @Html.TextBoxFor(m=>m.lastNumber)
+    <input name="sign" value="+" type="submit"/>
+    <input name="sign" value="-" type="submit" />
+    <input name="sign" value="*" type="submit" />
+    <input name="sign" value="/" type="submit" />
+    @Html.DisplayFor(x=>x.sum)
+}
+
