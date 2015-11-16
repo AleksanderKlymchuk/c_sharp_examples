@@ -160,3 +160,4 @@ C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebApi\bin\k
 C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebApi\bin\ru\System.Spatial.resources.dll
 C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebApi\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebApi\obj\Release\WebApi.csprojResolveAssemblyReference.cache

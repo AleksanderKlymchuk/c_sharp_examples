@@ -13,6 +13,7 @@ using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using System.Threading;
 using System.Net.Http.Formatting;
+using System.Web;
 
 
 
@@ -21,7 +22,7 @@ namespace WebApi.Controllers
      /// <summary>
      /// claims  authorization with owin middleware token based authentication example 1
      /// </summary>
-    [ClaimsAuthorize("role", "admin")]
+    //[ClaimsAuthorize("role", "admin")]
    
     public class EmployeeController : ApiController
     {
@@ -33,10 +34,9 @@ namespace WebApi.Controllers
         }
 
 
-       
+        string host;
         public virtual async Task<IHttpActionResult> Get()
         {
-            
             return new HttpResult(await iDataService.GetAllAsync(), Request, HttpStatusCode.OK);
         }
         [Route("api/gettest")]
@@ -44,6 +44,12 @@ namespace WebApi.Controllers
         {
 
             return new HttpResult(HttpStatusCode.Unauthorized);
+        }
+        [Route("api/getemployyes")]
+        public IEnumerable<User> getemployyes()
+        {
+
+            return iDataService.GetUserList();
         }
         
 

@@ -1,5 +1,5 @@
 ﻿(function () {
-    angular.module('app.Employee', ['ngResource', 'ngCookies','ngRoute']).config(['$compileProvider', function ($compileProvider) {
+    angular.module('app.Employee', ['ngResource', 'ngCookies', 'ngRoute']).config(['$compileProvider', function ($compileProvider) {
         $compileProvider.debugInfoEnabled(false);
     }])
     .config(function ($routeProvider, $locationProvider) {
@@ -106,9 +106,14 @@
                 
             });
         }
+     
+        hello(function (message) {
+            alert(message);
+        });
+        debugger;
 
     }])
-    .controller('AppController', ['$scope', 'data', function ($scope, data) {
+    .controller('AppController', ['$scope', 'data','ui.calendar', function ($scope, data) {
         $scope.employees = data.query();
     }])
     .directive('temp',['data',function (data) {
@@ -124,6 +129,20 @@
             template:''
         }
 
-    }])
-    
+    }]).
+    directive('appCalendar', function () {
+        var monthsLabels = ['januar','februar','marts','april','may','juni','juli','august','september','oktober','november','december'];
+        var daysLabels = ['monday', 'tirsday', 'onsday', 'torsday', 'friday'];
+        var currentDay = new Date();
+        return {
+
+
+        }
+
+
+    })
+    function hello(test) {
+        if (typeof (test) === "function")
+            test("hello");
+    }
 })();

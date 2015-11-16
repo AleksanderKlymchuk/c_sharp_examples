@@ -21,10 +21,10 @@ namespace WebApi
 
         List<Employee> employees = new List<Employee>(){
 
-            new Employee(){Id=1,Name="Oleksandr", ManagerId=2},
-            new Employee(){Id=2,Name="Thomas", ManagerId=null},
-            new Employee(){Id=3,Name="Rasmus", ManagerId=2},
-            new Employee(){Id=4,Name="Niels", ManagerId=1}
+            new Employee(){EmployeeId=1,EmployeeName="Oleksandr", ManagerId=2},
+            new Employee(){EmployeeId=2,EmployeeName="Thomas", ManagerId=null},
+            new Employee(){EmployeeId=3,EmployeeName="Rasmus", ManagerId=2},
+            new Employee(){EmployeeId=4,EmployeeName="Niels", ManagerId=1}
         };
 
         public async Task<IEnumerable<Employee>> Get(int Id)
@@ -72,14 +72,31 @@ namespace WebApi
         }
         public void Update(Employee employee, int Id)
         {
-            Employee emp = employees.Where(x => x.Id.Equals(Id)).FirstOrDefault();
-            emp.Name = employee.Name;
+            Employee emp = employees.Where(x => x.EmployeeId.Equals(Id)).FirstOrDefault();
+            emp.EmployeeName = employee.EmployeeName;
             emp.ManagerId = employee.ManagerId;
         }
         public void Delete(int id)
         {
-            employees.RemoveAll(x => x.Id.Equals(id));
+            employees.RemoveAll(x => x.EmployeeId.Equals(id));
         }
+        public IEnumerable<User> GetUserList()
+        {
+            using (conn){
+                conn.ConnectionString = dbconnection;
+                conn.Open();
+                var users=conn.Query<User,Employee,User>
+                    ("RE_Repository_User_GetTree",
+                    (us, em) => { em.UserId=us.UserId; return us; },
+                    commandType:CommandType.StoredProcedure,
+                    splitOn:"UserId,UserName,EmployeeId,EmployeeName"
+                    );
+                return users;
+            }
 
+
+
+
+        }
     }
 }

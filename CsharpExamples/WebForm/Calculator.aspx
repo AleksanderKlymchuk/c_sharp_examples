@@ -10,6 +10,10 @@
         <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
       
                 <div>
+                    <asp:CheckBox ID="CheckBox1" runat="server" />
+                    <asp:CheckBox ID="CheckBox2" runat="server" />
+                    <asp:CheckBox ID="CheckBox3" runat="server" />
+                    <asp:CheckBox ID="CheckBox4" runat="server" />
                     <div>
                         <asp:Label ID="fiNumberLabel" runat="server">First Number</asp:Label>
                         <asp:TextBox ID="firstNumber" runat="server" ></asp:TextBox>

@@ -8,8 +8,13 @@
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
+
 <body>
+    <asp:PlaceHolder runat="server">
+            <%:System.Web.Optimization.Scripts.Render("~/bundles/modernizr") %>
+        </asp:PlaceHolder>
     <form id="form1" runat="server">
+        
     <div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>

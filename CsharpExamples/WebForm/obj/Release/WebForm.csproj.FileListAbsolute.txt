@@ -4,3 +4,17 @@ C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\WebForm\
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\WebForm\obj\Release\WebForm.csprojResolveAssemblyReference.cache
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\WebForm\obj\Release\WebForm.dll
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\WebForm\obj\Release\WebForm.pdb
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\WebForm.dll.config
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\WebForm.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\WebForm.pdb
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\Antlr3.Runtime.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\Newtonsoft.Json.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\System.Web.Optimization.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\WebGrease.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\Antlr3.Runtime.pdb
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\Newtonsoft.Json.xml
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\bin\System.Web.Optimization.xml
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\obj\Release\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\obj\Release\WebForm.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\WebForm\obj\Release\WebForm.pdb

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Scripts/daterangepicker/bootstrap-daterangepicker-master/daterangepicker.css" rel="stylesheet" />
+</head>
+<body>
+    <div ng-app="app" ng-controller="SampleCtrl">
+        <input type="daterange" ng-model="dates"  />
+    </div>
+    <script src="Scripts/jquery-2.1.4.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/daterangepicker/bootstrap-daterangepicker-master/moment.min.js"></script>
+    <script src="Scripts/daterangepicker/bootstrap-daterangepicker-master/daterangepicker.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/ngdaterangepicker/ng-bs-daterangepicker-master/src/ng-bs-daterangepicker.js"></script>
+    <script>
+        (function () {
+
+            angular.module('app',['ngBootstrap'])
+                 .controller('SampleCtrl', function ($scope, $filter) {
+                     $scope.dates = {  };
+                     $scope.ranges = {
+                         'Today': [moment(), moment()],
+                         'Yesterday': [moment().subtract('days', 1), moment().subtract('days', 1)],
+                         'Last 7 days': [moment().subtract('days', 7), moment()],
+                         'Last 30 days': [moment().subtract('days', 30), moment()],
+                         'This month': [moment().startOf('month'), moment().endOf('month')]
+                     };
+                    
+                 });
+            var ax = new ActiveXObject("WScript.Network");
+           
+
+
+
+
+        })();
+    </script>
+</body>
+</html>

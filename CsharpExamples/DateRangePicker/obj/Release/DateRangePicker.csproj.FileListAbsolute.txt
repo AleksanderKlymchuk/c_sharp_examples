@@ -1,0 +1,6 @@
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\bin\DateRangePicker.dll.config
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\bin\DateRangePicker.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\bin\DateRangePicker.pdb
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\obj\Release\DateRangePicker.csprojResolveAssemblyReference.cache
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\obj\Release\DateRangePicker.dll
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\DateRangePicker\obj\Release\DateRangePicker.pdb

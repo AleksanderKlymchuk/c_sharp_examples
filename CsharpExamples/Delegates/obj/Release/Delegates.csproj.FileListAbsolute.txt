@@ -26,3 +26,6 @@ C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Delegate
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Delegates\obj\Release\Delegates.csprojResolveAssemblyReference.cache
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Delegates\obj\Release\Delegates.exe
 C:\Users\oleksandr\documents\visual studio 2013\Projects\CsharpExamples\Delegates\obj\Release\Delegates.pdb
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\Delegates\bin\Release\Delegates.exe.config
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\Delegates\obj\Release\Delegates.exe
+C:\Users\oleksandr\Documents\GitHub\c_sharp_examples\CsharpExamples\Delegates\obj\Release\Delegates.pdb

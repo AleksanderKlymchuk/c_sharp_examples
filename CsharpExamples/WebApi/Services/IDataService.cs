@@ -15,5 +15,6 @@ namespace WebApi
         void Add(Employee obj);
         void Update(Employee obj, int Id);
         void Delete(int id);
+        IEnumerable<User> GetUserList();
     }
 }

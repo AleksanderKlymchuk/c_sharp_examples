@@ -9,10 +9,13 @@ namespace WebApi
 {
     public class User
     {
+        public int UserId { get; set; }
         public string UserName { get; set; }
         public string Salt { get; set; }
         public string Hash { get; set; }
         public string Password { get; set; }
+
+        public IEnumerable<Employee> employees { get; set; }
 
         public string HashPassword(string password)
         {
